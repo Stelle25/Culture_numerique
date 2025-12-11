@@ -7,7 +7,13 @@
     <repere repcode="-10#10#-10#10#2#2" repetat="inactif"/>
     <param totalBoucles="5000000" arrondiAuto="vrai" epaisseurLigne="2" nbDecimales="8" totalAffichages="1000" epaisseurPoint="2" maxBoucle="500000"/>
     <item algoitem="FONCTIONS_UTILISEES" code="200#declarationfonctions"/>
-    <item algoitem="VARIABLES" code="100#declarationsvariables"/>
+    <item algoitem="VARIABLES" code="100#declarationsvariables">
+        <item algoitem="A EST_DU_TYPE NOMBRE" code="1#NOMBRE#A"/>
+        <item algoitem="B EST_DU_TYPE NOMBRE" code="1#NOMBRE#B"/>
+        <item algoitem="C EST_DU_TYPE NOMBRE" code="1#NOMBRE#C"/>
+        <item algoitem="D EST_DU_TYPE NOMBRE" code="1#NOMBRE#D"/>
+        <item algoitem="E EST_DU_TYPE NOMBRE" code="1#NOMBRE#E"/>
+    </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo"/>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
 </Algo>
