@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description texte="" courant="B PREND_LA_VALEUR 6"/>
+    <description texte="" courant="D PREND_LA_VALEUR B-A"/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2lignes="" F2para="" F2defaut="" F2etat="inactif"/>
@@ -17,6 +17,8 @@
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="A PREND_LA_VALEUR 5" code="5#A#5#pasliste"/>
         <item algoitem="B PREND_LA_VALEUR 6" code="5#B#6#pasliste"/>
+        <item algoitem="C PREND_LA_VALEUR A+B" code="5#C#A+B#pasliste"/>
+        <item algoitem="D PREND_LA_VALEUR B-A" code="5#D#B-A#pasliste"/>
     </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
 </Algo>
