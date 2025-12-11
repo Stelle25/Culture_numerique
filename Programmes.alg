@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description texte="" courant="DEBUT_ALGORITHME"/>
+    <description texte="" courant="B PREND_LA_VALEUR 6"/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2lignes="" F2para="" F2defaut="" F2etat="inactif"/>
@@ -14,6 +14,9 @@
         <item algoitem="D EST_DU_TYPE NOMBRE" code="1#NOMBRE#D"/>
         <item algoitem="E EST_DU_TYPE NOMBRE" code="1#NOMBRE#E"/>
     </item>
-    <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo"/>
+    <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
+        <item algoitem="A PREND_LA_VALEUR 5" code="5#A#5#pasliste"/>
+        <item algoitem="B PREND_LA_VALEUR 6" code="5#B#6#pasliste"/>
+    </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
 </Algo>
