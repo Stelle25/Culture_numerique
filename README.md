@@ -1,13 +1,13 @@
 # TP Guidé : Travailler en binôme avec AlgoBox et GitHub
-
-Les fichiers AlgoBox utilisés pour ce TP sont dans ce dépot.
-Réalisé par: Estelle MARTIN 2A groupe B
-Travail réalisé avec Sixtine DESQUILBET 2A groupe E 
+  
+Les fichiers AlgoBox utilisés pour ce TP sont dans ce dépot.  
+Réalisé par: Estelle MARTIN 2A groupe B  
+Travail réalisé avec Sixtine DESQUILBET 2A groupe E   
 
 
 ## Exécution de l'Algorithme
-Ce guide explique comment lancer le programme AlgoBox contenu dans le dépôt.
-Le fichier AlgoBox se nomme : Programme.algo
+Ce guide explique comment lancer le programme AlgoBox contenu dans le dépôt.  
+Le fichier AlgoBox se nomme : Programme.algo  
 ### Prérequis
  * Avoir le logiciel AlgoBox sur votre ordinateur.
  * Avoir cloné le dépôt GitHub sur votre ordinateur.
