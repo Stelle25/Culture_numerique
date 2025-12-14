@@ -9,8 +9,8 @@ Travail réalisé avec Sixtine DESQUILBET 2A groupe E
 Ce guide explique comment lancer le programme AlgoBox contenu dans le dépôt.
 Le fichier AlgoBox se nomme : Programme.algo
 ### Prérequis
-*Avoir le logiciel AlgoBox sur votre ordinateur.
-*Avoir cloné le dépôt GitHub sur votre ordinateur.
+ * Avoir le logiciel AlgoBox sur votre ordinateur.
+ * Avoir cloné le dépôt GitHub sur votre ordinateur.
 
 ### Etapes pour ouvrir et Exécuter
 1. Mise à jour
