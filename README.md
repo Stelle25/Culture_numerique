@@ -1,20 +1,21 @@
-#TP Guidé : Travailler en binôme avec AlgoBox et GitHub
+# TP Guidé : Travailler en binôme avec AlgoBox et GitHub
 
-##Réalisé par: Estelle MARTIN 2A groupe B
-##Binôme : Sixtine DESQUILBET 2A groupe E 
+Les fichiers AlgoBox utilisés pour ce TP sont dans ce dépot.
+Réalisé par: Estelle MARTIN 2A groupe B
+Travail réalisé avec Sixtine DESQUILBET 2A groupe E 
 
 
 ## Exécution de l'Algorithme
 Ce guide explique comment lancer le programme AlgoBox contenu dans le dépôt.
-
-##Prérequis
+Le fichier AlgoBox se nomme : Programme.algo
+### Prérequis
 *Avoir le logiciel AlgoBox sur votre ordinateur.
 *Avoir cloné le dépôt GitHub sur votre ordinateur.
 
-##Etapes pour ouvrir et Exécuter
+### Etapes pour ouvrir et Exécuter
 1. Mise à jour
   * Avant de commencer, ouvrir Git Bash.
-  * Placez vosu dans le dossier du projet (`cd Culture_numerique`).
+  * Placez vous dans le dossier du projet (`cd Culture_numerique`).
   * Récupérer les dernières modifications du projet (`git pull origin main`)
 
 2. Localiser le fichier
